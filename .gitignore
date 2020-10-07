@@ -1,0 +1,29 @@
+# Files in config folder
+/application/config/config.php
+/application/config/constants.php
+/application/config/database.php
+
+# Folders 
+/application/logs/*
+
+#mixed files 
+bitbucket-pipelines.yml
+
+## Not Ignore 
+!uploaded_documents/countries_profiles/index.php
+!invoices/.htaccess
+!labels/index.php
+!reports/.htaccess
+!uploaded_documents/countries_profiles/index.php
+!assets/captcha/index.php
+!uploaded_documents/index.php
+!uploaded_documents/manage_price/index.php
+!uploaded_documents/orders_files/index.php
+
+# All Others  
+readme.txt
+/uploaded_documents/
+/README.md
+/.references/
+/.sql/
+/tmp/*
